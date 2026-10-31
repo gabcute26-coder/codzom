@@ -1,0 +1,6 @@
+
+name = "codzom"
+compatibility_date = "2026-10-31"
+
+[assets]
+directory = "./public"
